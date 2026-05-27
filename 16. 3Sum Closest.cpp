@@ -25,7 +25,7 @@ public:
             {
                 return res;
             }
-            if(target < total)
+            if(target > total)
             {
                 left++;
             }
